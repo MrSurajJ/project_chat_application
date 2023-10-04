@@ -5,11 +5,9 @@
 ![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This repository accompanies the video tutorial that demonstrates the creation of a complete Realtime Chat Application. Throughout this tutorial, we'll utilize React for the frontend, and the backend will be powered by NodeJS along with the Socket.io web socket library.
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
-
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
+Upon completing this video tutorial, you'll gain a solid grasp of how to effectively send and receive messages using web sockets and Socket.io, enabling you to develop real-time applications with confidence.
 
 ## Launch your development career with project-based coaching - https://www.jsmastery.pro
 
